@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<motorcyclist>
+    <helmet brand = "BMW" color = "CARBON" gender = "UNISEX" size = "M" useType = "URBAN" weight = "2">
+        <helmetType>FULL_FACE</helmetType>
+        <helmetMaterialType>THERMOPLASTIC_RESIN</helmetMaterialType>
+    </helmet>
+    <jacket brand = "CAVASAKI" gender = "WOMEN" size = "M" useType = "URBAN" color = "BLACK" weight = "0.5">
+        <fabricType>LEATHER</fabricType>
+        <seasonType>ALL_YEAR</seasonType>
+    </jacket>
+    <gloves brand = "ZERO" gender = "WOMEN" size = "S" useType = "SPORT" color = "RED" weight = "0.15">
+        <fabricType>TEXTILES</fabricType>
+        <seasonType>SUMMER</seasonType>
+        <waterproof>true</waterproof>
+    </gloves>
+    <boots brand = "BMW" gender = "WOMEN" size = "M" useType = "SPORT" color = "GREY" weight = "0.8">
+        <seasonType>SUMMER</seasonType>
+        <bootsMaterialType>DRYSTAR</bootsMaterialType>
+    </boots>
+    <pants brand = "ZERO" gender = "WOMEN" size = "M" useType = "URBAN" color = "RED" weight = "0.7">
+        <fabricType>LEATHER</fabricType>
+        <seasonType>ALL_YEAR</seasonType>
+        <styleType>MODERN</styleType>
+    </pants>
+</motorcyclist>

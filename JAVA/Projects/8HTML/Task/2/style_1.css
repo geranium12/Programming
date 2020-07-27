@@ -1,0 +1,9 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    text-align: center;
+    background-color: rgb(148, 136, 134);
+}

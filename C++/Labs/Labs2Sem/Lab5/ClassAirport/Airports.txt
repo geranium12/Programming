@@ -1,0 +1,25 @@
+123 
+Los Angeles International Airport
+44.1 22.2 
+Los Angeles
+USA
+243
+London Heathrow
+98.0 23.5
+London
+Great Britain
+109
+Paris Charles de Gaulle Airport
+34.2 59.3
+Paris
+France
+598
+Amsterdam Airport Schiphol
+29.6 10.2
+Amsterdam
+Netherlands
+923
+Frankfurt Airport
+34.1 88.9
+Frankfurt
+Germany

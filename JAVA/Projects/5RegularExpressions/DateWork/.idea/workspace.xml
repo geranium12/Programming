@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59c8c602-3bd8-43f5-b58f-c2295b73982c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZWVwXedTY581xODEmuMFJzKAci" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Java/javafx-sdk-11.0.2/lib" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="DateWork" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;C:\Program Files\Java\javafx-sdk-11.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59c8c602-3bd8-43f5-b58f-c2295b73982c" name="Default Changelist" comment="" />
+      <created>1584955075905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584955075905</updated>
+      <workItem from="1584955078976" duration="9574000" />
+      <workItem from="1584966685323" duration="843000" />
+      <workItem from="1584967619799" duration="2507000" />
+      <workItem from="1584988762765" duration="73000" />
+      <workItem from="1584989863761" duration="5000" />
+      <workItem from="1584991477027" duration="15000" />
+      <workItem from="1584993624900" duration="10000" />
+      <workItem from="1585655375950" duration="2949000" />
+      <workItem from="1586269041154" duration="734000" />
+      <workItem from="1586269781609" duration="643000" />
+      <workItem from="1586853821125" duration="116000" />
+      <workItem from="1586854187281" duration="16000" />
+      <workItem from="1587975659788" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="74" key="#Configure_Path_Variables" timestamp="1586269748389">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Configure_Path_Variables/0.0.1536.824@0.0.1536.824" timestamp="1586269748389" />
+    <state x="552" y="178" key="#Inspections" timestamp="1584957853215">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1584957853215" />
+    <state x="361" y="74" key="#Project_Structure" timestamp="1586269726408">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1586269726408" />
+    <state x="331" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586269719577">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="331" y="139" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586269719577" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584966695825" />
+    <state x="706" y="223" key="FileChooserDialogImpl" timestamp="1586269678409">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="706" y="223" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586269678409" />
+    <state x="883" y="282" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584958165703" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1586270424548">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586270424548" />
+    <state width="1876" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585664787109" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1586270424547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586270424547" />
+    <state width="1876" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585664787109" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1586270424547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586270424547" />
+    <state width="1876" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585664787109" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1586270424547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586270424547" />
+    <state width="1876" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585664787109" />
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom" timestamp="1584967528196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584967528196" />
+    <state width="1876" height="348" key="GridCell.Tab.1.center" timestamp="1584967528196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584967528196" />
+    <state width="1876" height="348" key="GridCell.Tab.1.left" timestamp="1584967528196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584967528196" />
+    <state width="1876" height="348" key="GridCell.Tab.1.right" timestamp="1584967528196">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584967528196" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1586269681238">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586269681238" />
+    <state x="657" y="115" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584958174192" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584988767804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584988767804" />
+    <state x="909" y="364" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584956406396">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="909" y="364" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1584956406396" />
+    <state x="560" y="161" key="new project wizard" timestamp="1584965999213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="560" y="161" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584965999213" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1584955101298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584955101298" />
+  </component>
+</project>

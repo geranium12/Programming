@@ -1,0 +1,30 @@
+div{
+    width: 100%;
+}
+table{
+    width: 100%;
+    text-align: center;
+}
+tr{
+    height: 50px;
+}
+tr:nth-child(even) {
+    background-color: gray;
+}
+
+tr:nth-child(odd) {
+    background-color: lightgrey;
+}
+.header{
+    height: 75px;
+    background-color: beige;
+    font-weight: bolder;
+}
+h1, h2{
+    text-align: center;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(248, 242, 242);
+}

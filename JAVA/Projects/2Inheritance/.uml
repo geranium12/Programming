@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="1121.9092803030303" y="595.0">enumhierarchy.SeasonType</node>
+    <node x="689.5556493506491" y="44.0">enumhierarchy.Size</node>
+    <node x="888.5556493506491" y="77.0">enumhierarchy.UseType</node>
+    <node x="1386.4092803030303" y="1076.0">classhierarchy.Pants</node>
+    <node x="1588.2236525974026" y="606.0">enumhierarchy.StyleType</node>
+    <node x="1077.8056493506492" y="99.0">enumhierarchy.Gender</node>
+    <node x="103.63064935064904" y="606.0">enumhierarchy.HelmetMaterialType</node>
+    <node x="219.28064935064913" y="1087.0">classhierarchy.Helmet</node>
+    <node x="1211.2842803030303" y="1303.0">classhierarchy.Motorcyclist</node>
+    <node x="1191.4092803030303" y="1076.0">classhierarchy.Gloves</node>
+    <node x="889.4957669552671" y="1584.0">classhierarchy.Dom</node>
+    <node x="1387.8888946608947" y="606.0">enumhierarchy.FabricType</node>
+    <node x="872.7275851370853" y="573.0">classhierarchy.Equipment</node>
+    <node x="785.5556493506491" y="0.0">enumhierarchy.Color</node>
+    <node x="297.63064935064904" y="595.0">enumhierarchy.HelmetType</node>
+    <node x="469.6306493506491" y="595.0">enumhierarchy.BootsMaterialType</node>
+    <node x="1091.7116760461763" y="1663.0">Main</node>
+    <node x="902.2431493506491" y="1087.0">classhierarchy.Jacket</node>
+    <node x="664.2431493506491" y="1087.0">classhierarchy.Boots</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="classhierarchy.Gloves" target="enumhierarchy.FabricType">
+      <point x="78.75" y="-48.5" />
+      <point x="1357.6592803030303" y="1056.0" />
+      <point x="1446.8888946608947" y="1056.0" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="classhierarchy.Helmet" target="enumhierarchy.Size">
+      <point x="-13.200000000000045" y="-37.5" />
+      <point x="338.0806493506491" y="886.0" />
+      <point x="426.1306493506491" y="886.0" />
+      <point x="426.1306493506491" y="433.0" />
+      <point x="703.8056493506491" y="433.0" />
+      <point x="-23.75" y="92.5" />
+    </edge>
+    <edge source="classhierarchy.Boots" target="classhierarchy.Equipment">
+      <point x="32.700000000000045" y="-37.5" />
+      <point x="805.9431493506492" y="956.0" />
+      <point x="916.954857864358" y="956.0" />
+      <point x="-25.272727272727252" y="81.5" />
+    </edge>
+    <edge source="classhierarchy.Motorcyclist" target="classhierarchy.Pants">
+      <point x="48.0" y="-70.5" />
+      <point x="1325.2842803030303" y="1273.0" />
+      <point x="1408.2842803030303" y="1273.0" />
+      <point x="-65.625" y="48.5" />
+    </edge>
+    <edge source="classhierarchy.Pants" target="enumhierarchy.Color">
+      <point x="21.875" y="-48.5" />
+      <point x="1495.7842803030303" y="1016.0" />
+      <point x="1555.7236525974026" y="1016.0" />
+      <point x="1555.7236525974026" y="323.0" />
+      <point x="863.3681493506491" y="323.0" />
+      <point x="36.3125" y="136.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="enumhierarchy.SeasonType">
+      <point x="4.704545454545496" y="-14.5" />
+      <point x="928.7003124098126" y="1474.0" />
+      <point x="1180.9092803030303" y="1474.0" />
+      <point x="0.0" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Pants" target="enumhierarchy.Size">
+      <point x="7.2916666666667425" y="-48.5" />
+      <point x="1481.200946969697" y="1006.0" />
+      <point x="1516.3888946608947" y="1006.0" />
+      <point x="1516.3888946608947" y="333.0" />
+      <point x="760.8056493506491" y="333.0" />
+      <point x="33.25" y="92.5" />
+    </edge>
+    <edge source="classhierarchy.Pants" target="enumhierarchy.SeasonType">
+      <point x="-36.458333333333485" y="-48.5" />
+      <point x="1437.4509469696968" y="756.0" />
+      <point x="1233.3537247474749" y="756.0" />
+      <point x="52.44444444444457" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="enumhierarchy.Gender">
+      <point x="32.93181818181813" y="-14.5" />
+      <point x="956.9275851370853" y="1564.0" />
+      <point x="1709.7236525974026" y="1564.0" />
+      <point x="1709.7236525974026" y="293.0" />
+      <point x="1162.1806493506492" y="293.0" />
+      <point x="39.375" y="37.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="enumhierarchy.Size">
+      <point x="-32.931818181818244" y="-14.5" />
+      <point x="891.0639487734488" y="1564.0" />
+      <point x="0.0" y="1564.0" />
+      <point x="0.0" y="423.0" />
+      <point x="694.3056493506491" y="423.0" />
+      <point x="-33.25" y="92.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="enumhierarchy.BootsMaterialType">
+      <point x="-10.977272727272748" y="-14.5" />
+      <point x="913.0184942279943" y="1494.0" />
+      <point x="584.4542803030301" y="1494.0" />
+      <point x="584.4542803030301" y="916.0" />
+      <point x="497.4639826839824" y="916.0" />
+      <point x="-55.666666666666686" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Motorcyclist" target="classhierarchy.Helmet">
+      <point x="-60.0" y="-70.5" />
+      <point x="1217.2842803030303" y="1273.0" />
+      <point x="384.2806493506491" y="1273.0" />
+      <point x="33.0" y="37.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="classhierarchy.Pants">
+      <point x="23.522727272727252" y="-14.5" />
+      <point x="947.5184942279943" y="1534.0" />
+      <point x="1551.842159090909" y="1534.0" />
+      <point x="1551.842159090909" y="1283.0" />
+      <point x="1539.5342803030303" y="1283.0" />
+      <point x="65.625" y="48.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="enumhierarchy.Color">
+      <point x="-29.795454545454618" y="-14.5" />
+      <point x="894.2003124098126" y="1554.0" />
+      <point x="49.786931818181756" y="1554.0" />
+      <point x="49.786931818181756" y="453.0" />
+      <point x="790.7431493506491" y="453.0" />
+      <point x="-36.3125" y="136.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="enumhierarchy.HelmetType">
+      <point x="-20.386363636363626" y="-14.5" />
+      <point x="903.6094033189036" y="1524.0" />
+      <point x="183.50546933621933" y="1524.0" />
+      <point x="183.50546933621933" y="856.0" />
+      <point x="317.29731601731567" y="856.0" />
+      <point x="-39.33333333333337" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Helmet" target="enumhierarchy.UseType">
+      <point x="39.599999999999966" y="-37.5" />
+      <point x="390.8806493506491" y="906.0" />
+      <point x="448.1306493506491" y="906.0" />
+      <point x="448.1306493506491" y="493.0" />
+      <point x="909.3681493506491" y="493.0" />
+      <point x="-34.6875" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Jacket" target="enumhierarchy.Color">
+      <point x="-61.25" y="-37.5" />
+      <point x="928.4931493506491" y="866.0" />
+      <point x="862.2275851370853" y="866.0" />
+      <point x="862.2275851370853" y="473.0" />
+      <point x="821.8681493506491" y="473.0" />
+      <point x="-5.1875" y="136.5" />
+    </edge>
+    <edge source="classhierarchy.Gloves" target="enumhierarchy.Size">
+      <point x="-8.75" y="-48.5" />
+      <point x="1270.1592803030303" y="1016.0" />
+      <point x="1262.6592803030303" y="1016.0" />
+      <point x="1262.6592803030303" y="373.0" />
+      <point x="751.3056493506491" y="373.0" />
+      <point x="23.75" y="92.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="enumhierarchy.UseType">
+      <point x="-26.65909090909099" y="-14.5" />
+      <point x="897.3366760461761" y="1544.0" />
+      <point x="93.13064935064904" y="1544.0" />
+      <point x="93.13064935064904" y="483.0" />
+      <point x="895.4931493506491" y="483.0" />
+      <point x="-48.5625" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Gloves" target="enumhierarchy.Gender">
+      <point x="43.75" y="-48.5" />
+      <point x="1322.6592803030303" y="1016.0" />
+      <point x="1347.266870851371" y="1016.0" />
+      <point x="1347.266870851371" y="343.0" />
+      <point x="1139.6806493506492" y="343.0" />
+      <point x="16.875" y="37.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="enumhierarchy.StyleType">
+      <point x="29.795454545454504" y="-14.5" />
+      <point x="953.7912215007216" y="1554.0" />
+      <point x="1659.646001082251" y="1554.0" />
+      <point x="1659.646001082251" y="1056.0" />
+      <point x="1680.7236525974026" y="1056.0" />
+      <point x="37.0" y="48.5" />
+    </edge>
+    <edge source="classhierarchy.Motorcyclist" target="classhierarchy.Equipment">
+      <point x="12.0" y="-70.5" />
+      <point x="1289.2842803030303" y="1213.0" />
+      <point x="1087.7431493506492" y="1213.0" />
+      <point x="1087.7431493506492" y="836.0" />
+      <point x="954.8639487734489" y="836.0" />
+      <point x="12.636363636363626" y="81.5" />
+    </edge>
+    <edge source="classhierarchy.Motorcyclist" target="classhierarchy.Boots">
+      <point x="-24.0" y="-70.5" />
+      <point x="1253.2842803030303" y="1243.0" />
+      <point x="854.9931493506491" y="1243.0" />
+      <point x="81.75" y="37.5" />
+    </edge>
+    <edge source="classhierarchy.Pants" target="enumhierarchy.Gender">
+      <point x="51.04166666666674" y="-48.5" />
+      <point x="1524.950946969697" y="1036.0" />
+      <point x="1577.7236525974026" y="1036.0" />
+      <point x="1577.7236525974026" y="303.0" />
+      <point x="1150.9306493506492" y="303.0" />
+      <point x="28.125" y="37.5" />
+    </edge>
+    <edge source="classhierarchy.Equipment" target="enumhierarchy.Color">
+      <point x="-8.6875" y="-81.5" />
+      <point x="933.5400851370853" y="413.0" />
+      <point x="842.6181493506491" y="413.0" />
+      <point x="15.5625" y="136.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="classhierarchy.Motorcyclist">
+      <point x="14.113636363636374" y="-14.5" />
+      <point x="938.1094033189036" y="1504.0" />
+      <point x="1277.2842803030303" y="1504.0" />
+      <point x="0.0" y="70.5" />
+    </edge>
+    <edge source="classhierarchy.Gloves" target="enumhierarchy.SeasonType">
+      <point x="-26.25" y="-48.5" />
+      <point x="1252.6592803030303" y="796.0" />
+      <point x="1207.1315025252525" y="796.0" />
+      <point x="26.22222222222217" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Gloves" target="enumhierarchy.UseType">
+      <point x="26.25" y="-48.5" />
+      <point x="1305.1592803030303" y="1006.0" />
+      <point x="1336.266870851371" y="1006.0" />
+      <point x="1336.266870851371" y="353.0" />
+      <point x="978.7431493506491" y="353.0" />
+      <point x="34.6875" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Boots" target="enumhierarchy.SeasonType">
+      <point x="98.10000000000002" y="-37.5" />
+      <point x="871.3431493506491" y="996.0" />
+      <point x="1141.575946969697" y="996.0" />
+      <point x="-39.33333333333326" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Boots" target="enumhierarchy.UseType">
+      <point x="-10.900000000000091" y="-37.5" />
+      <point x="762.343149350649" y="916.0" />
+      <point x="774.6780303030303" y="916.0" />
+      <point x="774.6780303030303" y="503.0" />
+      <point x="923.2431493506491" y="503.0" />
+      <point x="-20.8125" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Pants" target="enumhierarchy.FabricType">
+      <point x="-7.2916666666667425" y="-48.5" />
+      <point x="1466.6176136363636" y="996.0" />
+      <point x="1480.6031803751805" y="996.0" />
+      <point x="33.71428571428578" y="48.5" />
+    </edge>
+    <edge source="classhierarchy.Jacket" target="classhierarchy.Equipment">
+      <point x="-26.25" y="-37.5" />
+      <point x="963.4931493506491" y="846.0" />
+      <point x="942.2275851370853" y="846.0" />
+      <point x="0.0" y="81.5" />
+    </edge>
+    <edge source="classhierarchy.Helmet" target="enumhierarchy.Gender">
+      <point x="66.0" y="-37.5" />
+      <point x="417.2806493506491" y="916.0" />
+      <point x="459.1306493506491" y="916.0" />
+      <point x="459.1306493506491" y="513.0" />
+      <point x="1083.4306493506492" y="513.0" />
+      <point x="-39.375" y="37.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="classhierarchy.Gloves">
+      <point x="17.25" y="-14.5" />
+      <point x="941.2457669552671" y="1514.0" />
+      <point x="1390.8307954545455" y="1514.0" />
+      <point x="1390.8307954545455" y="1263.0" />
+      <point x="1344.5342803030303" y="1263.0" />
+      <point x="65.625" y="48.5" />
+    </edge>
+    <edge source="classhierarchy.Jacket" target="enumhierarchy.Size">
+      <point x="-78.75" y="-37.5" />
+      <point x="910.9931493506491" y="876.0" />
+      <point x="719.6467803030303" y="876.0" />
+      <point x="719.6467803030303" y="443.0" />
+      <point x="722.8056493506491" y="443.0" />
+      <point x="-4.75" y="92.5" />
+    </edge>
+    <edge source="classhierarchy.Jacket" target="enumhierarchy.Gender">
+      <point x="8.75" y="-37.5" />
+      <point x="998.4931493506491" y="976.0" />
+      <point x="1082.9092803030303" y="976.0" />
+      <point x="1082.9092803030303" y="553.0" />
+      <point x="1128.4306493506492" y="553.0" />
+      <point x="5.625" y="37.5" />
+    </edge>
+    <edge source="Main" target="classhierarchy.Dom">
+      <point x="-19.0" y="-14.5" />
+      <point x="1110.7116760461763" y="1638.0" />
+      <point x="923.9957669552671" y="1638.0" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="classhierarchy.Boots" target="enumhierarchy.Gender">
+      <point x="54.5" y="-37.5" />
+      <point x="827.7431493506491" y="966.0" />
+      <point x="1057.0525851370853" y="966.0" />
+      <point x="1057.0525851370853" y="543.0" />
+      <point x="1117.1806493506492" y="543.0" />
+      <point x="-5.625" y="37.5" />
+    </edge>
+    <edge source="classhierarchy.Boots" target="enumhierarchy.Size">
+      <point x="-54.5" y="-37.5" />
+      <point x="718.7431493506491" y="886.0" />
+      <point x="647.130649350649" y="886.0" />
+      <point x="647.130649350649" y="443.0" />
+      <point x="713.3056493506491" y="443.0" />
+      <point x="-14.25" y="92.5" />
+    </edge>
+    <edge source="classhierarchy.Jacket" target="enumhierarchy.SeasonType">
+      <point x="43.75" y="-37.5" />
+      <point x="1033.4931493506492" y="1016.0" />
+      <point x="1167.7981691919192" y="1016.0" />
+      <point x="-13.111111111111086" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Motorcyclist" target="classhierarchy.Jacket">
+      <point x="0.0" y="-70.5" />
+      <point x="1277.2842803030303" y="1223.0" />
+      <point x="1055.3681493506492" y="1223.0" />
+      <point x="65.625" y="37.5" />
+    </edge>
+    <edge source="classhierarchy.Gloves" target="classhierarchy.Equipment">
+      <point x="-61.25" y="-48.5" />
+      <point x="1217.6592803030303" y="816.0" />
+      <point x="980.1366760461761" y="816.0" />
+      <point x="37.90909090909088" y="81.5" />
+    </edge>
+    <edge source="classhierarchy.Pants" target="enumhierarchy.UseType">
+      <point x="36.45833333333326" y="-48.5" />
+      <point x="1510.3676136363636" y="1026.0" />
+      <point x="1566.7236525974026" y="1026.0" />
+      <point x="1566.7236525974026" y="313.0" />
+      <point x="992.6181493506491" y="313.0" />
+      <point x="48.5625" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Helmet" target="enumhierarchy.HelmetType">
+      <point x="-39.60000000000002" y="-37.5" />
+      <point x="311.6806493506491" y="876.0" />
+      <point x="395.9639826839824" y="876.0" />
+      <point x="39.33333333333334" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Motorcyclist" target="classhierarchy.Gloves">
+      <point x="36.0" y="-70.5" />
+      <point x="1313.2842803030303" y="1193.0" />
+      <point x="1300.7842803030303" y="1193.0" />
+      <point x="21.875" y="48.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="enumhierarchy.HelmetMaterialType">
+      <point x="-23.522727272727366" y="-14.5" />
+      <point x="900.4730396825398" y="1534.0" />
+      <point x="171.78912878787855" y="1534.0" />
+      <point x="171.78912878787855" y="1056.0" />
+      <point x="132.63064935064904" y="1056.0" />
+      <point x="-58.0" y="48.5" />
+    </edge>
+    <edge source="classhierarchy.Boots" target="enumhierarchy.BootsMaterialType">
+      <point x="-76.30000000000007" y="-37.5" />
+      <point x="696.943149350649" y="896.0" />
+      <point x="608.7973160173158" y="896.0" />
+      <point x="55.66666666666663" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="classhierarchy.Helmet">
+      <point x="-17.25" y="-14.5" />
+      <point x="906.7457669552671" y="1514.0" />
+      <point x="289.8691056998557" y="1514.0" />
+      <point x="289.8691056998557" y="1283.0" />
+      <point x="252.28064935064913" y="1283.0" />
+      <point x="-99.0" y="37.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="enumhierarchy.FabricType">
+      <point x="26.659090909090878" y="-14.5" />
+      <point x="950.6548578643581" y="1544.0" />
+      <point x="1592.8770833333333" y="1544.0" />
+      <point x="1592.8770833333333" y="996.0" />
+      <point x="1497.4603232323234" y="996.0" />
+      <point x="50.57142857142867" y="48.5" />
+    </edge>
+    <edge source="classhierarchy.Jacket" target="enumhierarchy.UseType">
+      <point x="-8.75" y="-37.5" />
+      <point x="980.9931493506491" y="956.0" />
+      <point x="1046.0525851370853" y="956.0" />
+      <point x="1046.0525851370853" y="383.0" />
+      <point x="964.8681493506491" y="383.0" />
+      <point x="20.8125" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Helmet" target="enumhierarchy.HelmetMaterialType">
+      <point x="-118.80000000000004" y="-37.5" />
+      <point x="232.48064935064906" y="846.0" />
+      <point x="190.63064935064904" y="846.0" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="classhierarchy.Boots" target="enumhierarchy.Color">
+      <point x="-32.700000000000045" y="-37.5" />
+      <point x="740.5431493506491" y="906.0" />
+      <point x="763.6780303030303" y="906.0" />
+      <point x="763.6780303030303" y="473.0" />
+      <point x="811.4931493506491" y="473.0" />
+      <point x="-15.5625" y="136.5" />
+    </edge>
+    <edge source="classhierarchy.Gloves" target="enumhierarchy.Color">
+      <point x="8.75" y="-48.5" />
+      <point x="1287.6592803030303" y="1006.0" />
+      <point x="1273.6592803030303" y="1006.0" />
+      <point x="1273.6592803030303" y="363.0" />
+      <point x="852.9931493506491" y="363.0" />
+      <point x="25.9375" y="136.5" />
+    </edge>
+    <edge source="classhierarchy.Jacket" target="enumhierarchy.FabricType">
+      <point x="78.75" y="-37.5" />
+      <point x="1068.4931493506492" y="1036.0" />
+      <point x="1413.174608946609" y="1036.0" />
+      <point x="-33.71428571428578" y="48.5" />
+    </edge>
+    <edge source="classhierarchy.Equipment" target="enumhierarchy.Gender">
+      <point x="43.4375" y="-81.5" />
+      <point x="985.6650851370853" y="523.0" />
+      <point x="1094.6806493506492" y="523.0" />
+      <point x="-28.125" y="37.5" />
+    </edge>
+    <edge source="classhierarchy.Helmet" target="classhierarchy.Equipment">
+      <point x="118.80000000000001" y="-37.5" />
+      <point x="470.08064935064914" y="936.0" />
+      <point x="891.6821305916308" y="936.0" />
+      <point x="-50.545454545454504" y="81.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="classhierarchy.Jacket">
+      <point x="1.5681818181818699" y="-14.5" />
+      <point x="925.563948773449" y="1464.0" />
+      <point x="954.4557954545455" y="1464.0" />
+      <point x="954.4557954545455" y="1283.0" />
+      <point x="967.8681493506491" y="1283.0" />
+      <point x="-21.875" y="37.5" />
+    </edge>
+    <edge source="classhierarchy.Equipment" target="enumhierarchy.Size">
+      <point x="-60.8125" y="-81.5" />
+      <point x="881.4150851370853" y="443.0" />
+      <point x="732.3056493506491" y="443.0" />
+      <point x="4.75" y="92.5" />
+    </edge>
+    <edge source="Main" target="classhierarchy.Motorcyclist">
+      <point x="19.0" y="-14.5" />
+      <point x="1148.7116760461763" y="1638.0" />
+      <point x="1292.6775851370853" y="1638.0" />
+      <point x="1292.6775851370853" y="1504.0" />
+      <point x="1321.2842803030303" y="1504.0" />
+      <point x="44.0" y="70.5" />
+    </edge>
+    <edge source="classhierarchy.Dom" target="classhierarchy.Boots">
+      <point x="-7.840909090909122" y="-14.5" />
+      <point x="916.1548578643581" y="1484.0" />
+      <point x="695.1775851370854" y="1484.0" />
+      <point x="695.1775851370854" y="1283.0" />
+      <point x="691.4931493506491" y="1283.0" />
+      <point x="-81.75" y="37.5" />
+    </edge>
+    <edge source="classhierarchy.Pants" target="classhierarchy.Equipment">
+      <point x="-80.20833333333348" y="-48.5" />
+      <point x="1393.7009469696968" y="786.0" />
+      <point x="992.7730396825398" y="786.0" />
+      <point x="50.545454545454504" y="81.5" />
+    </edge>
+    <edge source="classhierarchy.Pants" target="enumhierarchy.StyleType">
+      <point x="80.20833333333326" y="-48.5" />
+      <point x="1554.1176136363636" y="1056.0" />
+      <point x="1643.7236525974026" y="1056.0" />
+      <point x="0.0" y="48.5" />
+    </edge>
+    <edge source="classhierarchy.Equipment" target="enumhierarchy.UseType">
+      <point x="8.6875" y="-81.5" />
+      <point x="950.9150851370853" y="403.0" />
+      <point x="937.1181493506491" y="403.0" />
+      <point x="-6.9375" y="59.5" />
+    </edge>
+    <edge source="classhierarchy.Helmet" target="enumhierarchy.Color">
+      <point x="13.200000000000045" y="-37.5" />
+      <point x="364.4806493506492" y="896.0" />
+      <point x="437.1306493506491" y="896.0" />
+      <point x="437.1306493506491" y="463.0" />
+      <point x="801.1181493506491" y="463.0" />
+      <point x="-25.9375" y="136.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.9205640423031727" x="851.0" y="1214.851672198111" />
+  <SelectedNodes>
+    <node>enumhierarchy.SeasonType</node>
+    <node>enumhierarchy.Size</node>
+    <node>enumhierarchy.UseType</node>
+    <node>classhierarchy.Pants</node>
+    <node>enumhierarchy.StyleType</node>
+    <node>enumhierarchy.Gender</node>
+    <node>enumhierarchy.HelmetMaterialType</node>
+    <node>classhierarchy.Helmet</node>
+    <node>classhierarchy.Motorcyclist</node>
+    <node>classhierarchy.Gloves</node>
+    <node>classhierarchy.Dom</node>
+    <node>enumhierarchy.FabricType</node>
+    <node>classhierarchy.Equipment</node>
+    <node>enumhierarchy.Color</node>
+    <node>enumhierarchy.HelmetType</node>
+    <node>enumhierarchy.BootsMaterialType</node>
+    <node>Main</node>
+    <node>classhierarchy.Jacket</node>
+    <node>classhierarchy.Boots</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

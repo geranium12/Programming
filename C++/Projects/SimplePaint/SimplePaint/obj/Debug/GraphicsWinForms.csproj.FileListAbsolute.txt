@@ -1,0 +1,10 @@
+C:\Archive\C++\Karpovich\UP\GraphicsWinForms\GraphicsWinForms\bin\Debug\GraphicsWinForms.exe.config
+C:\Archive\C++\Karpovich\UP\GraphicsWinForms\GraphicsWinForms\bin\Debug\GraphicsWinForms.exe
+C:\Archive\C++\Karpovich\UP\GraphicsWinForms\GraphicsWinForms\bin\Debug\GraphicsWinForms.pdb
+C:\Archive\C++\Karpovich\UP\GraphicsWinForms\GraphicsWinForms\obj\Debug\GraphicsWinForms.csprojAssemblyReference.cache
+C:\Archive\C++\Karpovich\UP\GraphicsWinForms\GraphicsWinForms\obj\Debug\GraphicsWinForms.Properties.Resources.resources
+C:\Archive\C++\Karpovich\UP\GraphicsWinForms\GraphicsWinForms\obj\Debug\GraphicsWinForms.csproj.GenerateResource.cache
+C:\Archive\C++\Karpovich\UP\GraphicsWinForms\GraphicsWinForms\obj\Debug\GraphicsWinForms.csproj.CoreCompileInputs.cache
+C:\Archive\C++\Karpovich\UP\GraphicsWinForms\GraphicsWinForms\obj\Debug\GraphicsWinForms.exe
+C:\Archive\C++\Karpovich\UP\GraphicsWinForms\GraphicsWinForms\obj\Debug\GraphicsWinForms.pdb
+C:\Archive\C++\Karpovich\UP\GraphicsWinForms\GraphicsWinForms\obj\Debug\GraphicsWinForms.Form1.resources

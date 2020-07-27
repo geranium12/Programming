@@ -1,0 +1,42 @@
+[
+  {
+    "movieType": "ACTION",
+    "value": 25
+  },
+  {
+    "movieType": "ROM_COM",
+    "value": 67
+  },
+  {
+    "movieType": "ADVENTURE",
+    "value": 40
+  },
+  {
+    "movieType": "DRAMA",
+    "value": 73
+  },
+  {
+    "movieType": "BIOPIC",
+    "value": 21
+  },
+  {
+    "movieType": "SCI_FI",
+    "value": 34
+  },
+  {
+    "movieType": "HISTORICAL_DRAMA",
+    "value": 19
+  },
+  {
+    "movieType": "ROMANTIC",
+    "value": 39
+  },
+  {
+    "movieType": "WAR",
+    "value": 11
+  },
+  {
+    "movieType": "HORROR",
+    "value": 9
+  }
+]

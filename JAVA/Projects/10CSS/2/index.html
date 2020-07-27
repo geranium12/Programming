@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles/mainstyle.css" />
+    <link rel="stylesheet" href="styles/blank-style.css">
+    <title>my_cookbook</title>
+  </head>
+  <body>
+    <div class="logo">
+      <a href="index.html"> FOOD</a>
+    </div>
+
+    <div class="header">
+      <div class="header-mid">
+        My little cookbook
+      </div>
+    </div>
+
+    <div class="recipes">
+      <div class="recipe">
+        <a href="pancakes.html">
+          <div class="recipe-name">
+            Тонкие блины на молоке
+          </div>
+          <div class="block-photo">
+            <img src="images/12pd.png" alt="pancakes" class="photo" />
+          </div>
+        </a>
+      </div>
+
+      <div class="recipe">
+        <a href="soup.html">
+          <div class="recipe-name">
+            Сырный суп по‑французски с курицей
+          </div>
+          <div class="block-photo">
+            <img src="images/p_O (2).jpg" alt="pancakes" class="photo" />
+          </div>
+        </a>
+      </div>
+
+      <div class="recipe">
+        <a href="graten.html">
+          <div class="recipe-name">
+            Гратен дофинуа
+          </div>
+          <div class="block-photo">
+            <img src="images/p_O.jpg" alt="pancakes" class="photo" />
+          </div>
+        </a>
+      </div>
+
+      <div class="recipe">
+        <a href="hot_chocolate.html ">
+          <div class="recipe-name">
+            Горячий шоколад
+          </div>
+          <div class="block-photo">
+            <img src="images/p_O (1).jpg" alt="pancakes" class="photo" />
+          </div>
+        </a>
+      </div>
+    </div>
+
+    <div class="footer">
+      <div class="footer-left">
+        Created by Ann Gerasimchik
+      </div>
+      <div class="footer-right">
+        <a href="mailto:perfectfood@gmail.com">perfectfood@gmail.com</a>
+      </div>
+    </div>
+  </body>
+  <script>
+    var objects = document.getElementsByClassName("recipe");
+    for (var i = 0; i < objects.length; i++) {
+      objects[i].onmouseover = function () {
+        this.style.backgroundColor = "white";
+      };
+      objects[i].onmouseout = function () {
+        this.style.backgroundColor = "wheat";
+      };
+    }
+  </script>
+</html>

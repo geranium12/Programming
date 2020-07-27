@@ -1,0 +1,25 @@
+.main-part{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+li{
+    width: 100%;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid maroon;
+    font-weight: normal;
+    padding-bottom: 5px;
+}
+.step{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+.action{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    font-size: 1.5em;
+}

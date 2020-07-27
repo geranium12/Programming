@@ -1,0 +1,9 @@
+4
+Herasimchyk 8
+Hameza 9
+Lukashevich 10
+Kardziyaka 10
+3
+Herasimchyk Sport
+Lukashevich Sport
+Hameza Art

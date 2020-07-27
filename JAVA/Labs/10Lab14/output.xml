@@ -1,0 +1,22 @@
+<students>
+<student recordBook = "123">
+<surname>hgfd</surname>
+<course>2</course>
+<group>1</group>
+</student>
+<student recordBook = "1823239">
+<surname>Herasimchyk</surname>
+<course>2</course>
+<group>1</group>
+</student>
+<student recordBook = "1823246">
+<surname>Maroz</surname>
+<course>2</course>
+<group>1</group>
+</student>
+<student recordBook = "1823294">
+<surname>Hameza</surname>
+<course>2</course>
+<group>1</group>
+</student>
+</students>

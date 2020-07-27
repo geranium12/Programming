@@ -1,0 +1,71 @@
+h1 {
+  font-weight: normal;
+}
+
+h2 {
+  border-bottom: 2px solid maroon;
+  font-weight: normal;
+  padding-bottom: 5px;
+}
+
+.secondh2 {
+  padding-top: 3em;
+}
+
+h3 {
+  margin: 5px 0 5px 0;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(151, 0, 58);
+}
+
+.header {
+  text-align: center;
+}
+
+body {
+  padding: 10px 30px 60px 30px;
+  background-color: rgb(169, 162, 160);
+}
+
+.item {
+  padding: 0 0 0 50px;
+}
+
+.left-allign {
+  float: left;
+  width: 70%;
+}
+
+.left-allign-br {
+  float: left;
+  width: 100%;
+}
+
+.right-allign {
+  float: left;
+  width: 30%;
+  text-align: right;
+  font-style: italic;
+}
+
+.courses {
+  padding: 0 0 0 50px;
+}
+
+.subparagraph {
+  font-weight: normal;
+}
+
+.footnotes {
+  font-size: 90%;
+  padding: 0 0 10px 0;
+}
+
+.photo {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}

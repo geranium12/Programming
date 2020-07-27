@@ -1,0 +1,9 @@
+String-no-palindrome
+ korally. phuket: privet,  - 
+String-palindrome
+helleh ostrovortso 12321 
+The word with the biggest length
+ostrovortso place = 1
+The max word-number
+12321 place = 2
+helleh 12321 ostrovortso 
